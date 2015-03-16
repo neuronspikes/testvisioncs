@@ -1,0 +1,1 @@
+test and draft of classes for vision and frame based spiking neural networks
